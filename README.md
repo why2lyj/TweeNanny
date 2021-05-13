@@ -16,3 +16,4 @@ https://chuangyi.taobao.com/pages/smartPhrase?spm=a2esx.12365734.0.0.37c54f2amXs
 
 数据采集ing...
 
+截止 2021年5月13日 共采集 81420 数据。目前数据采集内容 95% 均为复采。预计采集截止日2021年12月31日。
