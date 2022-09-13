@@ -1,7 +1,9 @@
 [![Page Views Count](https://badges.toozhao.com/badges/01EJD7KGCR71MBW40SR0CC5GW6/green.svg)](https://badges.toozhao.com/badges/01EJD7KGCR71MBW40SR0CC5GW6/green.svg)
 # TweeNanny
 
-Building
+无空整理，公开语料。
+
+title: 商品信息 | content: 文案信息
 
 # 文小妹
 
@@ -22,6 +24,3 @@ https://chuangyi.taobao.com/pages/smartPhrase?spm=a2esx.12365734.0.0.37c54f2amXs
 
 截止 2021年12月31日 共采集 93988 数据。
 
-清理数据ing
-
-预计清理完毕时间：2022年2月28日。
